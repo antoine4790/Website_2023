@@ -43,9 +43,12 @@ disqus-shortname: antoineleleu
 # Name of the Author
 author-name: ElOptitramp
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /assets/images/Photo_profil.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: |
+  Conscient de la nécessité d'une transition écoresponsable de notre societé vers un modèle plus en accord avec notre environnement , je suis particulièrement intéressé par la manière dont je peux chaque jour trouver comment réduire mes consommations. Ce qui m'a conduit naturellement à me lancer dans le recyclage d'objets (d'abord comme hobby puis en tant que freelance) tels que les smartphones ou tout autre objet multimédia de notre monde aujourd'hui fortement digital. De formation en Bio-informatique, j'ai pu développer des compétences dans des langages tels que C/C++, Java ou encore Javascript. 
+  Très intéressé également par les langues étrangères depuis mes derniers voyages à l'étranger, je suis ouvert aux opportunités qui impliqueraient d'utiliser une langue étrangère. 
+  Je suis à l'écoute de toute opportunité susceptible de m'apporter l’expérience nécessaire pour mener à terme mes projets professionnels et personnels en utilisant mes compétences informatiques au service de cette transition écoresponsable.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/antoine4790
 
