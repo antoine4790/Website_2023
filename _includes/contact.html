@@ -57,6 +57,22 @@
                 {% unless site.spotify_username ==  %}
                 <a href="http://open.spotify.com/user/{{site.spotify_username}}" target="_blank" class="has-text-black"><i class="fab fa-spotify"></i></a>
                 {% endunless %}
+                <div id="donate-button-container">
+                    <div id="donate-button"></div>
+                    <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+                    <script>
+                    PayPal.Donation.Button({
+                    env:'production',
+                    hosted_button_id:'2YFZ2MYHUQA9N',
+                    image: {
+                    src:'https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donate_LG.gif',
+                    alt:'Bouton Faites un don avec PayPal',
+                    title:'PayPal - The safer, easier way to pay online!',
+                    }
+                    }).render('#donate-button');
+                    </script>
+                    </div>
+                    
             </div>
         </div>
     </div>
