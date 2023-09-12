@@ -1,12 +1,12 @@
 - name: Projet NursePlanning
-  image: ../assets/images/nurse-take-care-patient.jpg
+  image: assets/images/nurse-take-care-patient.jpg
   link:
   description: Il s'agit de mettre en relation infirmiers et patients rapidement via une application web gérant la prise de Rdvs.
 - name: Next Project
   link:
-  image: ../assets/images/coming-soon_612x612.jpg
+  image: assets/images/coming-soon_612x612.jpg
   description: Coming Soon...
 - name: All Projects on Github
   link:
-  image: /assets/images/github-logo-150x150.gif
+  image: assets/images/github-logo-150x150.gif
   description: All my projects are available on GitHub.com
