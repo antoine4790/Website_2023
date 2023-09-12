@@ -13,8 +13,8 @@ layout: page
   gtag('config', 'G-3QPQCBGLC6');
 </script>
 
-[Last Version](https://www.canva.com/design/DAFUwQ4cmWw/LRXZcwHUVMg04G5a0bZHwA/view?utm_content=DAFUwQ4cmWw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Page 1](assets/images/CV-ENG-1.svg)
 
-![Page 1](/assets/images/CV-ENG-1.svg)
+![Page 2](assets/images/CV-ENG-2.svg)
 
-![Page 2](/assets/images/CV-ENG-2.svg)
+<p>For the ultimate version, click here : </p><button type="button" class="btn btn-link"><a href="https://www.canva.com/design/DAFUwQ4cmWw/LRXZcwHUVMg04G5a0bZHwA/view?utm_content=DAFUwQ4cmWw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" class="btn btn-info" role="button">Check the last version</a></button>
